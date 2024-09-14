@@ -13,5 +13,6 @@ Note: I did first tested the efficacy of this solution using a sample code for c
 3. Optimization and generation: The model is base for optimization. Based on value the minimization of TAT and price. Hence I used the PULP library to get optimization functions and hence using that I printed the out at top four delivery partners based upon their trained values from the model for specific source-destination pair. The destination can be a state or if we want to map can be pincode too.
 
 Real Data Sample:
+
 ![image](https://github.com/user-attachments/assets/f18df4e2-ed8f-4a47-9e93-e831fdbece8d)
 
